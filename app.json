@@ -11,7 +11,7 @@
         "HANDLERS": {
             "description": "Prefix of commands. Can be also false",
             "required": true,
-            "value":".,"
+            "value":"."
         },
         "MULTI_HANDLERS": {
             "description": "Use prefix as given handlers and also without handlers",
@@ -106,7 +106,7 @@
        "SESSION": {
             "description": "Your session code, obtained by scanning QR",
             "required": true,
-            "volue":"Raganork~52f0ad4bda6a6c75a8463975954e8385:614e304d45762f6979444d3d"
+            "value":"Raganork~52f0ad4bda6a6c75a8463975954e8385:614e304d45762f6979444d3d"
            
         }
     },
