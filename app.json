@@ -31,17 +31,17 @@
        "HEROKU_API_KEY": {
             "description": "For updating bot and setting vars remotely",
             "required": true,
-            "value":""
+            "value":"HRKU-d37ca98d-3f6b-4d68-a4e0-53881d526869"
         },
         "HEROKU_APP_NAME": {
             "description": "Exact name which you gave at the top",
             "required": true,
-            "value":""
+            "value":"joex89"
         },
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"Raganork pack;Author name"
+            "value":"Wx pack;Author name"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -51,12 +51,12 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"Wx"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"Raganork;Souravkl11;https://i.imgur.com/YchATyT.jpeg"
+            "value":"Wx;Souravkl11;/"
         },
         "MODE": {
             "description": "Private or public",
@@ -105,7 +105,9 @@
         },
        "SESSION": {
             "description": "Your session code, obtained by scanning QR",
-            "required": true         
+            "required": true,
+            "volue":"Raganork~52f0ad4bda6a6c75a8463975954e8385:614e304d45762f6979444d3d"
+           
         }
     },
     "addons": [{
